@@ -78,9 +78,9 @@ Currently strengthening my knowledge of cybersecurity, networking, databases, an
 
 ## 📈 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeyondNate&show_icons=true&hide_border=true&theme=transparent)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeyondNate&layout=compact&hide_border=true&theme=transparent)
 
 ---
 
@@ -88,9 +88,9 @@ Currently strengthening my knowledge of cybersecurity, networking, databases, an
 
 I'm interested in connecting with professionals, collaborating on technology projects, and learning from the developer community.
 
-- **LinkedIn:** [Connect with me](YOUR_LINKEDIN_URL)
-- **GitHub:** [Explore my repositories](https://github.com/YOUR_USERNAME)
-- **Email:** YOUR_PROFESSIONAL_EMAIL
+- **LinkedIn:** [Connect with me](www.linkedin.com/in/brad-cárdenas-49524b346)
+- **GitHub:** [Explore my repositories](https://github.com/BeyondNate)
+- **Email:** brad.cardenas@upch.pe
 
 ---
 
